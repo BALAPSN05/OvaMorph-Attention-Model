@@ -1,0 +1,21 @@
+# Large datasets and generated artifacts
+data/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+kaggle.json
+.env
+
+# IDE
+.vscode/
+.idea/
